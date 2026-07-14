@@ -29,7 +29,4 @@ in Rust made that mental model concrete.
 ```bash
 cargo test
 ```
-## Credits
 
-Built as part of the [tokio-lessons](https://github.com/freddiehaddad/tokio-lessons) 
-series by Freddie Haddad.
